@@ -3,6 +3,7 @@
   * Internet: https://yggdrasil-map.cwinfo.org
   * Hyperboria: https://yggdrasil-map.h.cwinfo.org
   * Yggdrasil Network: https://yggdrasil-map.y.cwinfo.org
+  * I2P Network: http://yggnet.i2p
 
 Forked from the code for http://www.fc00.org (http://h.fc00.org on Hyperboria).
 
